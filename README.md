@@ -45,4 +45,4 @@ Application can be used for two main usages :
 
 - Improve prediction
 
-- Implement modification such as car price prediction (lightboost model, stacking)
+- Implement modifications as in car price prediction (lightboost model, stacking, all classes defined in specific file)
