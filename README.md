@@ -41,8 +41,8 @@ Application can be used for two main usages :
 | lightgbm | 4.5.0 |
 
 # Follow up
-Improve webpage design
+- Improve webpage design
 
-Improve prediction
+- Improve prediction
 
-Implement modification such as car price prediction (lightboost model, stacking)
+- Implement modification such as car price prediction (lightboost model, stacking)
