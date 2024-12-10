@@ -41,4 +41,8 @@ Application can be used for two main usages :
 | lightgbm | 4.5.0 |
 
 # Follow up
-During result displaying for car price prediction, the animation is flashing. No solution has been found yet to avoid the problem
+Improve webpage design
+
+Improve prediction
+
+Implement modification such as car price prediction (lightboost model, stacking)
