@@ -17,7 +17,7 @@ Data can be found on Kaggle website : https://www.kaggle.com/competitions/playgr
 
 
 # Results
-<img src="https://github.com/yanntt4/car_price_prediction/blob/master/readme_photo/preparation.JPG" alt="Alt Text" width="250" height="150"><img src="https://github.com/yanntt4/car_price_prediction/blob/master/readme_photo/pexels-jens-johnsson-14223-66100.jpg" alt="Alt Text" width="250" height="150"><img src="https://github.com/yanntt4/car_price_prediction/blob/master/readme_photo/completion.JPG" alt="Alt Text" width="250" height="150"><img src="https://github.com/yanntt4/car_price_prediction/blob/master/readme_photo/pexels-jens-johnsson-14223-66100.jpg" alt="Alt Text" width="250" height="150"><img src="https://github.com/yanntt4/car_price_prediction/blob/master/readme_photo/result.JPG" alt="Alt Text" width="250" height="150">
+<img src="https://github.com/yanntt4/insurance_cross_selling_kaggle/blob/master/readme_photo/presentation_page.JPG" alt="Alt Text" width="250" height="150"><img src="https://github.com/yanntt4/insurance_cross_selling_kaggle/blob/master/readme_photo/pexels-jens-johnsson-14223-66100.jpg" alt="Alt Text" width="250" height="150"><img src="https://github.com/yanntt4/insurance_cross_selling_kaggle/blob/master/readme_photo/prediction_page.JPG" alt="Alt Text" width="250" height="150">
 
 
 # Usage
