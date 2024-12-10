@@ -22,7 +22,7 @@ Data can be found on Kaggle website : https://www.kaggle.com/competitions/playgr
 
 # Usage
 Application can be used for two main usages :
-- Analyse data to create machine learning/deep learning model to estimate car price. 6 algorithms can be used to create model : Random Forest, Gradient Boosting, Neural Network, Extrem Gradient Boosting, Cat Boosting and Light Boosting. A specific github page is available to present the model
+- Analyse data to create machine learning/deep learning model to estimate insurance subscription probability. 5 algorithms can be used to create model : Random Forest, Gradient Boosting, Neural Network, Extrem Gradient Boosting and Cat Boosting
 - Allow user to make prediction from a webpage
 
 
@@ -32,13 +32,13 @@ Application can be used for two main usages :
 | tqdm | 4.66.4  |
 | numpy | 1.26.4  |
 | pandas | 2.2.2  |
-openpyxl | 3.1.5  |
-tensorflow | 2.17.0 |
-catboost | 1.2.5 |
+| openpyxl | 3.1.5  |
+| tensorflow | 2.17.0 |
+| catboost | 1.2.5 |
 | matplotlib | 3.9.1  |
-scikit-learn | 1.5.1 |
-xgboost | 2.1.0 |
-lightgbm | 4.5.0 |
+| scikit-learn | 1.5.1 |
+| xgboost | 2.1.0 |
+| lightgbm | 4.5.0 |
 
 # Follow up
 During result displaying for car price prediction, the animation is flashing. No solution has been found yet to avoid the problem
