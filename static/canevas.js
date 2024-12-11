@@ -108,8 +108,8 @@ function create_auto_drawing_right(wheel_position_x, wheel_position_y) {
 var id = null;
 function myMove() {
   var pos = 150;
-  var proba = 0.08825089037418365;
-  var proba_percent = 8;
+  var proba = 0.18909810483455658;
+  var proba_percent = 18;
    const x = pos + 1000*proba;
   clearInterval(id);
   id = setInterval(frame, 10);
