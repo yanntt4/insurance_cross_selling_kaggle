@@ -38,7 +38,6 @@ Application can be used for two main usages :
 | matplotlib | 3.9.1  |
 | scikit-learn | 1.5.1 |
 | xgboost | 2.1.0 |
-| lightgbm | 4.5.0 |
 
 # Follow up
 - Improve webpage design
