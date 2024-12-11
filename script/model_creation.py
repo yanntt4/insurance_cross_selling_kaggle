@@ -5,6 +5,10 @@ Created on Fri Nov 17 13:12:32 2023
 @author: ythiriet
 """
 
+# Clearing all variables
+from IPython import get_ipython
+get_ipython().magic('reset -sf')
+
 
 # Global importation
 import sys
@@ -504,10 +508,6 @@ class Data_Plot():
 Global_Parameters = Parameters()
 
 if Global_Parameters.CLEAR_MODE:
-
-    # Removing data
-    from IPython import get_ipython
-    get_ipython().magic('reset -sf')
 
     # Closing all figures
     plot.close("all")
